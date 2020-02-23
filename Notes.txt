@@ -1,0 +1,10 @@
+
+FR1: Application should be able to work in offline mode, without having internet connection; 
+Comment: The application uses Service Worker to cache site. It will work offline only for 
+	 previously fetched data while online. 
+
+FR3: Collage element view will depend on the content:
+Comment: This part of the task is not completed.
+
+FR4: Elements should be sorted by Rating, Category, and Name;
+Comment: Elements are sorted in ascending order by number of pages.
